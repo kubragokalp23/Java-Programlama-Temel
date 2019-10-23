@@ -45,7 +45,7 @@ peekLast(): Retrieves, but does not remove, the last element of this deque, or r
 		System.out.println(deque);
 		
 		
-		deque.push("recep");
+		deque.push("deniz");
 		System.out.println(deque);
 		
 		
